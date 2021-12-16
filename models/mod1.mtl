@@ -1,0 +1,15 @@
+# Rhino
+newmtl cardboardSurface
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tf 0 0 0
+d 1
+Ns 0
+newmtl cardboardSide
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tf 0 0 0
+d 1
+Ns 0
